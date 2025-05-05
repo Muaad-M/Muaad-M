@@ -1,118 +1,126 @@
-# Welcome to My Cybersecurity Portfolio 👋
+# 🛡️ Welcome to My Cybersecurity Portfolio
 
-Hi, I'm [Your Name], a passionate cybersecurity professional transitioning from IT support into blue team operations. With hands-on experience in incident response, security operations, malware analysis, and cloud security, I’m building my career to protect digital environments from emerging threats. Below is a showcase of my learning journey, real-world projects, and technical skills.
-
----
-
-## About Me
-
-🔹 **Background:**  
-I have a strong foundation in IT support, with experience in troubleshooting, networking, and virtualisation. After diving into cybersecurity, I have focused on building practical skills in **SOC operations, incident response, detection engineering**, and **cloud security**.  
-
-🔹 **Certifications:**  
-- CompTIA Security+ (In Progress)
-- Microsoft Certified: Security Operations Analyst (SC-200)
-- AZ-900: Microsoft Azure Fundamentals
-- CCNA: Cisco Certified Network Associate (In Progress)
-
-🔹 **Current Focus:**  
-- Completing SOC 101 and incident response learning paths with **Let'sDefend** and **TCM Security**.
-- Enhancing my detection engineering and SIEM skills using **Azure Sentinel**, **MDE**, and **Wireshark**.
+> **"Victory in cyber defence comes from preparation, pattern recognition, and persistence. This is my battlefield — and I enter it with discipline, purpose, and humility."**
 
 ---
 
-## Skills & Tools
+## ⚔️ Operational Ethos
 
-💻 **Technical Skills**:
-- **SIEM Tools**: Azure Sentinel, Splunk
-- **Endpoint Security**: Microsoft Defender for Endpoint (MDE)
-- **Networking**: CCNA-level knowledge
-- **Cloud Security**: Azure security, monitoring, incident response
-- **Malware Analysis**: Static analysis, phishing, dynamic analysis (VirusTotal, ANY.RUN)
-- **Scripting**: PowerShell basics (Suspicious web requests, automation)
+Cybersecurity is a battleground. But not one won with bravado — it’s won with readiness, reflection, and a relentless commitment to growth.
 
-🌐 **Other Tools & Platforms**:
-- **Wireshark** (packet capture analysis)
-- **Snort** (basic IDS/IPS setup)
-- **Splunk Universal Forwarder** (log collection)
-- **Let’sDefend, TryHackMe** (Cybersecurity labs)
+I train daily, not because I know everything, but because I don’t. I read, simulate, break, and rebuild. I learn from the experts, and from my own mistakes. I document not just wins, but near-misses — because every log, every alert, every overlooked packet is a lesson.
+
+I approach cybersecurity with the discipline of a **soldier**, the curiosity of a **strategist**, and the humility of a **lifelong learner**.
+
+> "The mission is not perfection — it's progression. Every day I aim to be sharper than yesterday."
 
 ---
 
-## Projects & Labs 🚀
+## 👨‍💻 About Me
 
-### 1. **Azure Honeynet & Security Monitoring**
-**Tools:** Azure Virtual Machines, Microsoft Sentinel, Log Analytics Workspace  
-**Skills Demonstrated:** Log analysis, security event management, detection rule creation  
-A hands-on lab where I configured a vulnerable Windows 10 VM in Azure to simulate an attack environment. Integrated with **Azure Sentinel** for real-time monitoring and alerting.
+Hi, I’m Muaad M., a cybersecurity practitioner transitioning from IT support into active blue team operations. My journey so far has been fuelled by **self-study**, **simulated threats**, and an obsession with understanding the adversary. 
 
-[Link to project files or screenshots]
+Everything you see here is the result of late nights, failed attempts, re-tries, and finally, growth. I don’t claim to be an expert — I’m a **dedicated apprentice of the craft**, learning by doing and improving every day.
 
 ---
 
-### 2. **Phishing Email Investigation & Analysis**
-**Tools:** Email headers, VirusTotal, Webmail Platforms  
-**Skills Demonstrated:** Phishing email detection, analysis of email headers, incident reporting  
-I’ve investigated multiple phishing attempts, identifying malicious patterns and raising awareness on preventing these common attacks.
+## 🎯 Career Intent
 
-[Link to project files or screenshots]
+I am currently seeking opportunities in cybersecurity — particularly in SOC operations and Cybersecurity Analyst
+This GitHub is my public logbook: a transparent record of how I think, what I build, and how I respond to threats in a practical environment.
 
 ---
 
-### 3. **Static Malware Analysis: Malicious PDF**
-**Tools:** VirusTotal, Hex Editor  
-**Skills Demonstrated:** Malware reverse engineering, static analysis  
-This project involved analysing a malicious PDF file to identify embedded payloads using tools like **VirusTotal** and a **Hex Editor**.
+## 📚 Training & Certifications
 
-[Link to project files or screenshots]
-
----
-
-### 4. **Onboarding and Investigating with MDE**
-**Tools:** Microsoft Defender for Endpoint (MDE)  
-**Skills Demonstrated:** Incident response, threat hunting, endpoint isolation  
-I worked on onboarding a virtual machine (VM) to **MDE**, conducting an investigation after a suspicious activity alert, and isolating the VM for further analysis.
-
-[Link to project files or screenshots]
+- Microsoft Certified: Security Operations Analyst (SC-200) *(In Progress)*
+- TCM Practical SOC Analyst Associate (PSAA) *(In Progress)*
+- Letsdefend CareerSwitch to Cybersecurity ✅
+- Microsoft Azure Fundamentals (AZ-900) ✅  
+- CompTIA Security+ *(In Progress)*  
+- Cisco CCNA ✅  
 
 ---
 
-## Virtual Work Experience 🌍
+## ⚙️ Technical Skills
 
-### **Telstra SOC Analyst (Mar 2025)**
-**Key Highlights:**  
-- **Incident Response**: Orchestrated the triage of a critical malware attack, analyzing firewall logs, and resolving the issue within 2 hours.  
-- **Post-Mortem Analysis**: Authored a comprehensive post-incident report for internal review.
+### SIEM & Detection Engineering
+- **Microsoft Sentinel**: Custom KQL detection rules, alert tuning, query optimisation  
+- **Log Analysis**: Triage, correlation, and timeline reconstruction across multiple log sources  
 
-### **ANZ Cybersecurity Analyst (Mar 2025)**
-**Key Highlights:**  
-- Investigated 7 phishing emails with 100% accuracy.  
-- Analyzed packet capture (PCAP) files using **Wireshark**, identifying malicious files and documenting findings.
+### Endpoint Detection & Response (EDR/XDR)
+- **Microsoft Defender for Endpoint (MDE)**: Host isolation, investigation packages, live response  
+- **Incident Response**: Hands-on experience with containment, artefact collection, and action centre operations  
 
-### **Mastercard Security Awareness Analyst (Jan 2025)**
-**Key Highlights:**  
-- Designed and executed targeted phishing email simulations.  
-- Delivered tailored phishing prevention training to improve awareness across departments.
+### Network Traffic Analysis
+- **Wireshark**: Deep packet inspection, anomaly detection, protocol dissection  
+- **Hex Analysis**: Low-level artefact review for payload and shellcode identification  
 
----
+### Threat Detection & Response
+- **Use Cases Simulated**: Brute-force attacks, remote code execution (RCE), suspicious PowerShell activity  
+- **IOC Tracking & Analysis**: Correlating indicators with known attack campaigns and host behaviour  
+- **Post-Incident Reporting**: Timeline creation, impact assessment, and remediation summaries  
 
-## Blog & Articles 📝
+### Threat Intelligence & OSINT
+- **Tools Used**: VirusTotal, ANY.RUN, urlscan.io, Cisco Talos  
+- **Applications**: IOC enrichment, malware sandboxing, domain/IP reputation evaluation  
 
-- **The Importance of SIEM in Cybersecurity**  
-- **Building Custom Detection Rules in Azure Sentinel**
-- **A Beginner’s Guide to Malware Analysis Tools**
+### Email Threat Analysis
+- **Triage Techniques**: Header inspection, sandbox testing, malicious link/file identification  
+- **Phishing Defence**: End-to-end simulation and response documentation  
 
-(Include links to any blog articles or external resources you’ve written, or you plan to publish.)
-
----
-
-## Contact
-
-📧 **Email:** [your-email@example.com]  
-🔗 **LinkedIn:** [Your LinkedIn URL]  
-💼 **Resume:** [Link to your resume or Google Drive file]  
-🌐 **GitHub:** [Link to your GitHub profile]
+### Other Defensive Tools & Frameworks
+- **Azure Security Center**: Basic security posture monitoring  
+- **MITRE ATT&CK Framework**: Adversary mapping, use case alignment  
+- **Event Viewer**: Host-level event trace review  
+- **Threat Watchlists**: Custom IOC list creation for ongoing detection enhancement  
 
 ---
 
-Thank you for visiting my portfolio! Feel free to connect or reach out for any collaborations or questions.
+## 🧪 Projects
+
+> Every project below is a self-built simulation of real-world attacks, showing the **full workflow**: detection → response → documentation.
+
+- [🔍 PowerShell Suspicious Web Request Detection (Sentinel + MDE)](#)
+- [🛡️ Remote Code Execution Auto-Response (Isolation & Forensics)](#)
+- [🧱 Brute Force Detection Rule + Threat Watchlist Integration](#)
+
+---
+
+## 🧱 Community Training: The Cyber Range
+
+I’ve levelled up my Azure and Microsoft stack experience through **The Cyber Range**, a practical, live-fire cyber training community.
+
+It provided access to:
+
+- **Microsoft Sentinel** (SIEM)
+- **Microsoft Defender for Endpoint** (EDR)
+- **Azure VMs** for sandboxing and lab simulations
+- **Tenable** for vulnerability management
+- Real-world production-style SOC scenarios and mentorship
+
+---
+
+## 📖 Lifelong Commitment
+
+I’m not chasing titles — I’m building capability.
+
+This portfolio isn’t polished — it’s real. Every commit is a step forward. I believe in:
+
+- Daily upskilling  
+- Reviewing and rebuilding  
+- Asking for feedback  
+- Staying teachable — even under pressure
+
+---
+
+## 📬 Contact
+
+- Actively looking for cybersecurity roles in detection, SOC, or cybersecurity analyst  
+- 📧 [muaad.work@gmail.com]  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/muaad-m) 
+---
+
+## ⚔️ The Defender’s Creed
+
+> *"I am not here to impress — I’m here to improve. I am a student of threats, a builder of resilience, and a quiet but persistent force in this battlefield. Cybersecurity is my craft, my mission, and my lifelong pursuit — and I will defend, learn, and lead with humility, every day until the job is done."*
