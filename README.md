@@ -8,17 +8,17 @@
 
 Hi, I’m Muaad M., a cybersecurity practitioner transitioning from IT support into active blue team operations. My journey so far has been fuelled by **self-study**, **simulated threats**, and an obsession with understanding the adversary. 
 
-Everything you see here is the result of late nights, failed attempts, re-tries, and finally, growth. I don’t claim to be an expert — I’m a **dedicated apprentice of the craft**, learning by doing and improving every day.
+This portfolio reflects late nights, failed attempts, retries, and ultimately — growth.
 
-I am currently seeking opportunities in cybersecurity, particularly in SOC operations and as a Cybersecurity Analyst.
+I am based in London UK and currently seeking opportunities in cybersecurity, particularly in SOC operations and as a Cybersecurity Analyst.
 
 ---
 
 ## Profile
 
-- ![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo.png) 📧 [Gmail](mailto:m.cyberanalyst@gmail.com)  
-- ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2013.svg) 🌍 [LinkedIn](https://www.linkedin.com/in/muaad-m)
-- ![Lets Defend Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LetsDefend_logo.svg/512px-LetsDefend_logo.svg.png) [Lets Defend](https://app.letsdefend.io/user/mumah26)
+- 📧 [Gmail](mailto:m.cyberanalyst@gmail.com)  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/muaad-m)
+- 🛡️ [Lets Defend](https://app.letsdefend.io/user/mumah26)
 
 
 
@@ -36,11 +36,44 @@ I am looking for roles that will allow me to deepen my skills in **SOC operation
 
 Cybersecurity is a battleground. But not one won with bravado — it’s won with readiness, reflection, and a relentless commitment to growth.
 
-I train daily, not because I know everything, but because I don’t. I read, simulate, break, and rebuild. I learn from the experts, and from my own mistakes. I document not just wins, but near-misses — because every log, every alert, every overlooked packet is a lesson.
+I train daily, not because I know everything, but because I don’t. I read, simulate, break, and rebuild. I learn from the experts, and from my own mistakes. 
 
 I approach cybersecurity with the discipline of a **soldier**, the curiosity of a **strategist**, and the humility of a **lifelong learner**.
 
 ---
+
+## Professional Background
+
+### 🛠️ IT & Network Support Technician
+
+Before transitioning into cybersecurity, I worked in a frontline IT support role, where I applied secure configuration practices and led initiatives to harden systems against common attack vectors:
+
+- Configured BIOS settings on student desktop machines to **disable USB ports**, mitigating the risk of malware infections via unauthorised flash drives.
+- Hardened web browser settings across student workstations to prevent storage of personal data, enhancing privacy and reducing data leakage risks.
+- Installed and pinned only approved applications on desktops to **restrict unauthorised software installations**, reducing exposure to malware and watering hole attacks.
+- Orchestrated a **proactive IT maintenance schedule**, reducing hardware/software failures by 40% and closing critical security vulnerabilities.
+- Trained and mentored a team of 9 IT support colleagues, embedding cybersecurity awareness, safe handling of user data, and correct escalation procedures.
+
+This experience gave me a strong operational foundation and highlighted the importance of defence-in-depth from the endpoint up.
+
+---
+
+## Incident Response Experience
+
+I am incident response-tested through the completion of two advanced, simulation-based scenarios designed to replicate real SOC environments:
+
+### 🔐 Telstra, Australia – *Security Operations Analyst* *(3hr Simulation)*  
+- Triaged a **high-severity malware incident** through SIEM and firewall log analysis, aiding containment.
+- Helped identify and block over **1,500 Spring4Shell-related intrusion attempts** by updating detection logic reviewed by senior analysts.
+- Contributed to **post-incident review** documentation: timelines, findings, and lessons learned.
+
+### 🛡️ ANZ, Australia – *Security Analyst* *(3hr Simulation)*  
+- Analysed **suspicious emails** via header inspection and sandboxing; extracted and reported IOCs to improve mail filtering.
+- Diagnosed **internal network anomalies** using Wireshark and hex analysis; recovered artefacts and reported findings.
+- Authored concise **incident notes** adopted in SOC tracking and used by senior analysts for briefings.
+
+---
+
 
 ## Training & Certifications
 
@@ -83,7 +116,7 @@ I approach cybersecurity with the discipline of a **soldier**, the curiosity of 
   *Simulated an RCE attack using PowerShell to test detection capabilities and response mechanisms.*
 
 - [Brute Force Detection in Azure VMs Using Microsoft Sentinel](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/3-Brute-Force-Detection-in-Azure-VMs-Using-Microsoft-Sentinel)  
-  *Designed and implemented custom KQL queries in Microsoft Sentinel to detect brute force attacks on Azure VMs, reducing false positives by X%.*
+  *Designed and implemented custom KQL queries in Microsoft Sentinel to detect brute force attacks on Azure VMs.*
 
 ---
 
