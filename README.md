@@ -16,9 +16,9 @@ I am based in London UK and currently seeking opportunities in cybersecurity, pa
 
 ## Profile
 
-- 📧 [Gmail](mailto:m.cyberanalyst@gmail.com)  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/muaad-m)
-- 🛡️ [Lets Defend](https://app.letsdefend.io/user/mumah26)
+- 📧 [Gmail](mailto:m.cyberanalyst@gmail.com)  m.cyberanalyst@gmail.com
+- 🌍 [LinkedIn](https://www.linkedin.com/in/muaad-m) https://www.linkedin.com/in/muaad-m
+- 🛡️ [Lets Defend](https://app.letsdefend.io/user/mumah26) https://app.letsdefend.io/user/mumah26
 
 
 
