@@ -10,12 +10,26 @@ Hi, I’m Muaad M., a cybersecurity practitioner transitioning from IT support i
 
 Everything you see here is the result of late nights, failed attempts, re-tries, and finally, growth. I don’t claim to be an expert — I’m a **dedicated apprentice of the craft**, learning by doing and improving every day.
 
+I am currently seeking opportunities in cybersecurity, particularly in SOC operations and as a Cybersecurity Analyst.
+
 ---
+
 ## Profile
 
-- 📧 [Gmail](m.cyberanalyst@gmail.com)  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/muaad-m)
-- [Lets Defend](https://app.letsdefend.io/user/mumah26)
+- ![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo.png) 📧 [Gmail](mailto:m.cyberanalyst@gmail.com)  
+- ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2013.svg) 🌍 [LinkedIn](https://www.linkedin.com/in/muaad-m)
+- ![Lets Defend Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LetsDefend_logo.svg/512px-LetsDefend_logo.svg.png) [Lets Defend](https://app.letsdefend.io/user/mumah26)
+
+
+
+---
+
+## Career Objective
+
+I am looking for roles that will allow me to deepen my skills in **SOC operations**, **incident detection**, and **threat response**. I am particularly interested in roles where I can work with teams that focus on real-world attacks and implement cutting-edge defensive strategies. 
+
+> **"Cybersecurity is a craft — every day I aim to be sharper than yesterday."**
+
 ---
 
 ## Operational Ethos
@@ -26,27 +40,16 @@ I train daily, not because I know everything, but because I don’t. I read, sim
 
 I approach cybersecurity with the discipline of a **soldier**, the curiosity of a **strategist**, and the humility of a **lifelong learner**.
 
-> "The mission is not perfection — it's progression. Every day I aim to be sharper than yesterday."
-
-
----
-
-## Career Intent
-
-I am currently seeking opportunities in cybersecurity — particularly in SOC operations and Cybersecurity Analyst.  
-This GitHub is my public logbook: a transparent record of how I think, what I build, and how I respond to threats in a practical environment.  
-To view my projects, go to [Muaad-M/Cybersecurity-Projects](https://github.com/Muaad-M/Cybersecurity-Projects).
-
 ---
 
 ## Training & Certifications
 
-- Microsoft Certified: Security Operations Analyst (SC-200) *(In Progress)*
-- TCM Practical SOC Analyst Associate (PSAA) *(In Progress)*
-- Letsdefend CareerSwitch to Cybersecurity ✅
-- Microsoft Azure Fundamentals (AZ-900) ✅  
-- CompTIA Security+ *(In Progress)*  
-- Cisco CCNA ✅  
+- **Microsoft Certified: Security Operations Analyst (SC-200)** *(In Progress)*
+- **TCM Practical SOC Analyst Associate (PSAA)** *(In Progress)*
+- **Letsdefend CareerSwitch to Cybersecurity** ✅  
+- **Microsoft Azure Fundamentals (AZ-900)** ✅  
+- **CompTIA Security+** *(In Progress)*  
+- **Cisco CCNA** ✅  
 
 ---
 
@@ -57,47 +60,38 @@ To view my projects, go to [Muaad-M/Cybersecurity-Projects](https://github.com/M
 | **Incident Detection and Containment**   | Isolated systems to prevent threat propagation                                  | SOC Response, Incident Handling          |
 | **Digital Forensics and Artifact Collection** | Collected forensic data for threat triage and investigation                    | Cyber Forensics, Threat Hunting          |
 | **Microsoft 365 Security Center Management**| Navigated the Defender portal to manage devices, alerts, and incidents         | Security Operations, Threat Management   |
-| **Action Center Workflow Tracking**     | Used MDE Action Center to track investigation package lifecycle                 | Case Management, SOC Workflow            |
 | **MITRE ATT&CK Alignment**               | Procedures mimic real-world tactics for detection and mitigation                | Threat Modeling, SOC Strategy            |
-| **Incident Response**                   | Investigated and responded to potential security incidents                      | Incident Response                        |
 | **Security Operations (SOC)**           | Managed alert triage, investigation, and response using MDE Action Centre       | SOC Operations                           |
 | **Post-Incident Documentation**         | Documented investigation steps, conclusions, and lessons learned                | SOC Reporting                            |
-| **Rule Maintenance Strategy**           | Managed alert tuning, false positive management, and rule evolution            | Detection Optimization                   |
 | **Microsoft Sentinel**                  | Custom KQL detection rules, alert tuning, query optimisation                    | SIEM & Detection Engineering             |
-| **Log Analysis**                        | Triage, correlation, and timeline reconstruction across multiple log sources    | SIEM & Detection Engineering             |
-| **Microsoft Defender for Endpoint (MDE)**| Host isolation, investigation packages, live response                           | EDR Tools, Incident Response             |
-| **Brute-force Attack Simulation**       | Simulated brute-force attacks and created detection rules                        | Threat Detection & Response              |
-| **IOC Tracking & Analysis**             | Correlating indicators with known attack campaigns and host behaviour           | Threat Detection & Response              |
 | **Wireshark Analysis**                  | Deep packet inspection, anomaly detection, protocol dissection                 | Network Traffic Analysis                 |
-| **Hex Analysis**                        | Low-level artefact review for payload and shellcode identification              | Network Traffic Analysis                 |
 | **Threat Intelligence (VirusTotal, Cisco Talos)**| Correlated indicators with threat intelligence for IOC enrichment          | Threat Intelligence & OSINT              |
-| **Email Threat Analysis**               | Triage techniques, including header inspection and sandbox testing              | Email Threat Analysis                    |
-| **Azure Security Center**               | Basic security posture monitoring and recommendations                           | Other Defensive Tools & Frameworks       |
-| **Event Viewer Analysis**               | Host-level event trace review for detecting suspicious activities               | Other Defensive Tools & Frameworks       |
-| **Phishing Defence**                    | Simulated phishing attacks and documented response techniques                   | Email Threat Analysis                    |
-| **Threat Watchlists**                   | Created custom IOC lists to enhance detection capabilities                       | Other Defensive Tools & Frameworks       |
-
 
 ---
 
 ## Projects
 
 > Every project below is a self-built simulation of real-world attacks, showing the **full workflow**: detection → response → documentation.
- To view my projects, go to [Muaad-M/Cybersecurity-Projects](https://github.com/Muaad-M/Cybersecurity-Projects).
 
-- [Azure Honeynet & Security Monitoring](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/0-Azure-Honeynet-%26-Security-Monitoring)
-- [Onboarding a VM to MDE Isolation and Investigation](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/1-Onboarding-a-VM-to-MDE-Isolation-and-Investigation)
-- [Detecting and Responding to a Remote Code Execution (RCE) Attack Using PowerShell](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/2-Detecting-and-Responding-to-a-Remote-Code-Execution-(RCE)-Attack-Using-PowerShell)
-- [Brute Force Detection in Azure VMs Using Microsoft Sentinel](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/3-Brute-Force-Detection-in-Azure-VMs-Using-Microsoft-Sentinel)
+- [Azure Honeynet & Security Monitoring](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/0-Azure-Honeynet-%26-Security-Monitoring)  
+  *Simulated and monitored a honeynet within Azure to practice detection and response capabilities.*
+  
+- [Onboarding a VM to MDE Isolation and Investigation](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/1-Onboarding-a-VM-to-MDE-Isolation-and-Investigation)  
+  *Walkthrough of onboarding a VM to Microsoft Defender for Endpoint, isolating it, and conducting an investigation.*
+  
+- [Detecting and Responding to a Remote Code Execution (RCE) Attack Using PowerShell](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/2-Detecting-and-Responding-to-a-Remote-Code-Execution-(RCE)-Attack-Using-PowerShell)  
+  *Simulated an RCE attack using PowerShell to test detection capabilities and response mechanisms.*
+
+- [Brute Force Detection in Azure VMs Using Microsoft Sentinel](https://github.com/Muaad-M/Cybersecurity-Projects/tree/main/3-Brute-Force-Detection-in-Azure-VMs-Using-Microsoft-Sentinel)  
+  *Designed and implemented custom KQL queries in Microsoft Sentinel to detect brute force attacks on Azure VMs, reducing false positives by X%.*
 
 ---
 
 ## Community Training: The Cyber Range
 
-I’ve levelled up my Azure and Microsoft stack experience through **The Cyber Range**, a practical, live-fire cyber training community.
+I’ve levelled up my Azure and Microsoft stack experience through **The Cyber Range**, a practical, live-fire cyber training community. 
 
-It provided access to:
-
+This training provided access to:
 - **Microsoft Sentinel** (SIEM)
 - **Microsoft Defender for Endpoint** (EDR)
 - **Azure VMs** for sandboxing and lab simulations
@@ -108,14 +102,17 @@ It provided access to:
 
 ## Lifelong Commitment
 
-I’m not chasing titles — I’m building capability.
+I’m not chasing titles — I’m building capability. This portfolio isn’t polished — it’s real. Every commit is a step forward. I believe in:
+- **Daily upskilling**
+- **Reviewing and rebuilding**
+- **Asking for feedback**
+- **Staying teachable** — even under pressure
 
-This portfolio isn’t polished — it’s real. Every commit is a step forward. I believe in:
+---
 
-- Daily upskilling  
-- Reviewing and rebuilding  
-- Asking for feedback  
-- Staying teachable — even under pressure
+## Open to Collaboration and Networking
+
+I am open to collaborating on cybersecurity projects, particularly in areas like **SOC operations**, **incident response**, and **threat intelligence**. If you're interested in working together, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/muaad-m).
 
 ---
 
