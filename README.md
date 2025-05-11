@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi, I’m Muaad M., a cybersecurity practitioner transitioning from IT support into active blue team operations. My journey so far has been fuelled by **self-study**, **simulated threats**, and an obsession with understanding the adversary. 
+Hi, I’m Muaad M., a cybersecurity practitioner transitioning from IT & Network support into active blue team operations. My journey so far has been fuelled by **self-study**, **simulated threats**, and an obsession with understanding the adversary. 
 
 This portfolio reflects late nights, failed attempts, retries, and ultimately — growth.
 
@@ -46,7 +46,7 @@ I approach cybersecurity with the discipline of a **soldier**, the curiosity of 
 
 ### 🛠️ IT & Network Support Technician
 
-Before transitioning into cybersecurity, I worked in a frontline IT support role, where I applied secure configuration practices and led initiatives to harden systems against common attack vectors:
+Before transitioning into cybersecurity, I worked in a frontline IT & Network support role, where I applied secure configuration practices and led initiatives to harden systems against common attack vectors:
 
 - Configured BIOS settings on student desktop machines to **disable USB ports**, mitigating the risk of malware infections via unauthorised flash drives.
 - Hardened web browser settings across student workstations to prevent storage of personal data, enhancing privacy and reducing data leakage risks.
