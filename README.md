@@ -11,12 +11,11 @@ Hi, I’m Muaad M., a cybersecurity practitioner transitioning from IT support i
 Everything you see here is the result of late nights, failed attempts, re-tries, and finally, growth. I don’t claim to be an expert — I’m a **dedicated apprentice of the craft**, learning by doing and improving every day.
 
 ---
-## Contact
+## Profile
 
-- Actively looking for cybersecurity roles in SOC or cybersecurity analyst  
 - 📧 [Gmail](m.cyberanalyst@gmail.com)  
 - 🌍 [LinkedIn](https://www.linkedin.com/in/muaad-m)
-
+- [Lets Defend](https://app.letsdefend.io/user/mumah26)
 ---
 
 ## Operational Ethos
